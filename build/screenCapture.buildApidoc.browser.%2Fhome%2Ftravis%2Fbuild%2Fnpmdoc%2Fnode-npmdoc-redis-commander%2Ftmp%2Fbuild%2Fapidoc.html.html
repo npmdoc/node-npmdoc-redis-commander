@@ -1,0 +1,490 @@
+<html><head></head><body><div class="apidocDiv">
+<style>
+/*csslint
+*/
+.apidocDiv {
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apidocDiv a[href] {
+    color: #33f;
+    font-weight: bold;
+    text-decoration: none;
+}
+.apidocDiv a[href]:hover {
+    text-decoration: underline;
+}
+.apidocCodeCommentSpan {
+    background: #bbf;
+    color: #000;
+    display: block;
+}
+.apidocCodeKeywordSpan {
+    color: #d00;
+    font-weight: bold;
+}
+.apidocCodePre {
+    background: #eef;
+    border: 1px solid;
+    color: #777;
+    padding: 5px;
+    white-space: pre-wrap;
+}
+.apidocFooterDiv {
+    margin-top: 20px;
+    text-align: center;
+}
+.apidocModuleLi {
+    margin-top: 10px;
+}
+.apidocSectionDiv {
+    border-top: 1px solid;
+    margin-top: 20px;
+}
+.apidocSignatureSpan {
+    color: #777;
+    font-weight: bold;
+}
+</style>
+<h1>api documentation for
+    <a href="https://github.com/npmdoc/node-npmdoc-redis-commander">npmdoc-redis-commander (v0.0.1)</a>
+</h1>
+<h4>api documentation for [npmdoc-redis-commander (v0.0.1)](https://github.com/npmdoc/node-npmdoc-redis-commander) [![npm package](https://img.shields.io/npm/v/npmdoc-npmdoc-redis-commander.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npmdoc-redis-commander) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npmdoc-redis-commander.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npmdoc-redis-commander)</h4>
+<div class="apidocSectionDiv"><a href="#apidoc.tableOfContents" id="apidoc.tableOfContents"><h1>table of contents</h1></a><ol>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.npmdoc-redis-commander">module npmdoc-redis-commander</a><ol>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">npmdoc-redis-commander.</span>local</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">npmdoc-redis-commander.</span>module</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">npmdoc-redis-commander.</span>npmdoc_redis_commander</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">npmdoc-redis-commander.</span>util</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">string <span class="apidocSignatureSpan">npmdoc-redis-commander.</span>__dirname</span>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.npmdoc-redis-commander.util">module npmdoc-redis-commander.util</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.addElement">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>addElement
+            <span class="apidocSignatureSpan">(newElem, callback)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.containsConnection">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>containsConnection
+            <span class="apidocSignatureSpan">(connectionList, object)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.decodeHTMLEntities">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>decodeHTMLEntities
+            <span class="apidocSignatureSpan">(string, callback)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.deleteConfig">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>deleteConfig
+            <span class="apidocSignatureSpan">(callback)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.distinct">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>distinct
+            <span class="apidocSignatureSpan">(items)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.encodeHTMLEntities">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>encodeHTMLEntities
+            <span class="apidocSignatureSpan">(string, callback)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.getConfig">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>getConfig
+            <span class="apidocSignatureSpan">(callback)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.getLast">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>getLast
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.saveConfig">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>saveConfig
+            <span class="apidocSignatureSpan">(config, callback)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.npmdoc-redis-commander.util.split">
+            function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>split
+            <span class="apidocSignatureSpan">(str)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+</ol></div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.npmdoc-redis-commander" id="apidoc.module.npmdoc-redis-commander">module npmdoc-redis-commander</a></h1>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.npmdoc-redis-commander.util" id="apidoc.module.npmdoc-redis-commander.util">module npmdoc-redis-commander.util</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.addElement" id="apidoc.element.npmdoc-redis-commander.util.addElement">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>addElement
+        <span class="apidocSignatureSpan">(newElem, callback)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">addElement = function (newElem, callback) {
+  this.push(newElem);
+  return callback(this);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.containsConnection" id="apidoc.element.npmdoc-redis-commander.util.containsConnection">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>containsConnection
+        <span class="apidocSignatureSpan">(connectionList, object)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">containsConnection = function (connectionList, object) {
+  var contains = false;
+  connectionList.forEach(function (element) {
+    if (element.host == object.host &amp;&amp; element.port == object.port &amp;&amp; element.password == object.password &amp;&amp; element.dbIndex ==
+object.dbIndex) {
+      contains = true;
+    }
+  });
+  return contains;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.decodeHTMLEntities" id="apidoc.element.npmdoc-redis-commander.util.decodeHTMLEntities">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>decodeHTMLEntities
+        <span class="apidocSignatureSpan">(string, callback)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">decodeHTMLEntities = function (string, callback) {
+  callback(string.replace(/\&amp;(\w)*\;/g, function (c) {
+    return String.fromCharCode(decodeHTMLEntities.entityTable[c.substring(1, c.indexOf("\;"))]);
+  }));
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.deleteConfig" id="apidoc.element.npmdoc-redis-commander.util.deleteConfig">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>deleteConfig
+        <span class="apidocSignatureSpan">(callback)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">deleteConfig = function (callback) {
+  fs.unlink(getConfigPath(), function (err) {
+    if (err) {
+      callback(err);
+    } else {
+      callback(null);
+    }
+  });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.distinct" id="apidoc.element.npmdoc-redis-commander.util.distinct">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>distinct
+        <span class="apidocSignatureSpan">(items)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">distinct = function (items) {
+  var hash = {};
+  items.forEach(function (item) {
+    hash[item] = true;
+  });
+  var result = [];
+  for (var item in hash) {
+    result.push(item);
+  }
+  return result;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.encodeHTMLEntities" id="apidoc.element.npmdoc-redis-commander.util.encodeHTMLEntities">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>encodeHTMLEntities
+        <span class="apidocSignatureSpan">(string, callback)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">encodeHTMLEntities = function (string, callback) {
+  callback(string.replace(/[\u00A0-\u2666&lt;&gt;\&amp;]/g, function (c) {
+    return '&amp;' +
+      (encodeHTMLEntities.entityTable[c.charCodeAt(0)] || '#' + c.charCodeAt(0)) + ';';
+  }));
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.getConfig" id="apidoc.element.npmdoc-redis-commander.util.getConfig">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>getConfig
+        <span class="apidocSignatureSpan">(callback)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">getConfig = function (callback) {
+  var configPath = getConfigPath();
+  fs.readFile(configPath, 'utf8', function (err, data) {
+    if (err) {
+      callback(err);
+      return;
+    }
+    var config;
+    try {
+      config = JSON.parse(data);
+    } catch (e) {
+      callback('Failed to unserialize configuration at ' + configPath + ': ' + e.message);
+      return;
+    }
+    callback(null, config);
+  });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.getLast" id="apidoc.element.npmdoc-redis-commander.util.getLast">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>getLast
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">getLast = function () {
+  return this[this.length - 1];
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+}
+
+function login (label, hostname, port, password, dbIndex, callback) {
+console.log('connecting... ', hostname, port);
+var client = new Redis(port, hostname);
+client.label = label;
+redisConnections.push(client);
+redisConnections.<span class="apidocCodeKeywordSpan">getLast</span>().on("error", function (err) {
+console.error("Redis error", err.stack);
+});
+redisConnections.getLast().on("end", function () {
+console.log("Connection closed. Attempting to Reconnect...");
+});
+if (password) {
+return redisConnections.getLast().auth(password, function (err) {
+...</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.saveConfig" id="apidoc.element.npmdoc-redis-commander.util.saveConfig">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>saveConfig
+        <span class="apidocSignatureSpan">(config, callback)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">saveConfig = function (config, callback) {
+  fs.writeFile(getConfigPath(), JSON.stringify(config), function (err) {
+    if (err) {
+      callback(err);
+    } else {
+      callback(null);
+    }
+  });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.npmdoc-redis-commander.util.split" id="apidoc.element.npmdoc-redis-commander.util.split">
+        function <span class="apidocSignatureSpan">npmdoc-redis-commander.util.</span>split
+        <span class="apidocSignatureSpan">(str)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">split = function (str) {
+  var results = [];
+  var word = '';
+  var validWord;
+  for (var i = 0; i &lt; str.length;) {
+    if (/\s/.test(str[i])) {
+      //Skips spaces.
+      while (i &lt; str.length &amp;&amp; /\s/.test(str[i])) {
+        i++;
+      }
+      results.push(word);
+      word = '';
+      validWord = false;
+      continue;
+    }
+
+    if (str[i] === '"') {
+      i++;
+      while (i &lt; str.length) {
+        if (str[i] === '"') {
+          validWord = true;
+          break;
+        }
+
+        if (str[i] === '\\') {
+          i++;
+          word += str[i++];
+          continue;
+        }
+
+        word += str[i++];
+      }
+      i++;
+      continue;
+    }
+
+    if (str[i] === '\'') {
+      i++;
+      while (i &lt; str.length) {
+        if (str[i] === '\'') {
+          validWord = true;
+          break;
+        }
+
+        if (str[i] === '\\') {
+          i++;
+          word += str[i++];
+          continue;
+        }
+
+        word += str[i++];
+      }
+      i++;
+      continue;
+    }
+
+    if (str[i] === '\\') {
+      i++;
+      word += str[i++];
+      continue;
+    }
+    validWord = true;
+    word += str[i++];
+  }
+  if (validWord) {
+    results.push(word);
+  }
+  return results;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocFooterDiv">
+    [ this document was created with
+    <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a>
+    ]
+</div>
+</div>
+</body></html>

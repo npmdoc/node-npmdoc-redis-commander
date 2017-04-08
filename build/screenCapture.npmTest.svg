@@ -1,12 +1,12 @@
-<svg height="4222" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="4222" fill="#555" width="720"></rect>
+<svg height="4526" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="4526" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 <tspan x="10" y="42">&gt; npmdoc-redis-commander@0.0.1 test /home/travis/build/npmdoc/node-npmdoc-redis-commander</tspan>
 <tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-07T22:56:06Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-08T09:38:00Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="122">redis-commander</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154"></tspan>
@@ -14,254 +14,273 @@
 <tspan x="10" y="186">c-redis-commander/test.js</tspan>
 <tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
 <tspan x="10" y="218">to test-report</tspan>
-<tspan x="10" y="234">&gt; server listening on http-port 64296</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 36828</tspan>
 <tspan x="10" y="250">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apidoc.htm\</tspan>
 <tspan x="10" y="266">l</tspan>
 <tspan x="10" y="282"></tspan>
 <tspan x="10" y="298"></tspan>
 <tspan x="10" y="314">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-redis-commander/\</tspan>
-<tspan x="10" y="330">tmp/electron.15b4aa1c51c0.ae41c21ef915b.html</tspan>
+<tspan x="10" y="330">tmp/electron.15b4ced731f0.01fbd659752c4.html</tspan>
 <tspan x="10" y="346"></tspan>
 <tspan x="10" y="362">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
 <tspan x="10" y="378">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
 <tspan x="10" y="394">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
 <tspan x="10" y="410"></tspan>
 <tspan x="10" y="426">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-redis-commander/\</tspan>
-<tspan x="10" y="442">tmp/electron.15b4aa1c5520.2827295e32dbe.html</tspan>
+<tspan x="10" y="442">tmp/electron.15b4ced73640.29b44271eaaaa.html</tspan>
 <tspan x="10" y="458"></tspan>
 <tspan x="10" y="474">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="490">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="506">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
 <tspan x="10" y="522">to test-report</tspan>
 <tspan x="10" y="538">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="554">[6633:0407/225608:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="570">[6633:0407/225608:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="586">[6661:0407/225608:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="554">[4773:0408/093802:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="570">[4773:0408/093802:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="586">[4806:0408/093802:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="602">in process gpu-process. </tspan>
-<tspan x="10" y="618">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
-<tspan x="10" y="634">to test-report</tspan>
-<tspan x="10" y="650">[6633:0407/225608:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="618">[4773:0408/093802:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="634">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
+<tspan x="10" y="650">to test-report</tspan>
 <tspan x="10" y="666">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="682">[6638:0407/225608:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="698">[6638:0407/225608:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="714">[6694:0407/225608:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="682">[4787:0408/093802:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="698">[4787:0408/093802:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="714">[4834:0408/093802:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="730">in process gpu-process. </tspan>
-<tspan x="10" y="746">[6638:0407/225608:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="746">[4787:0408/093802:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
 <tspan x="10" y="762"></tspan>
 <tspan x="10" y="778">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apidoc.\</tspan>
 <tspan x="10" y="794">html</tspan>
 <tspan x="10" y="810"></tspan>
 <tspan x="10" y="826"></tspan>
-<tspan x="10" y="842">browserTest - opened url http://127.0.0.1:64296?modeTest=1</tspan>
+<tspan x="10" y="842">browserTest - opened url http://127.0.0.1:36828?modeTest=1</tspan>
 <tspan x="10" y="858"></tspan>
-<tspan x="10" y="874">[6638:0407/225610:INFO:CONSOLE(249)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="874">[4787:0408/093804:INFO:CONSOLE(248)] "----------|-----------|-----------|-----------|-----------\</tspan>
 <tspan x="10" y="890">|</tspan>
 <tspan x="10" y="906">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="922">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="938">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="954">All files |       100 |       100 |       100 |       100 |</tspan>
 <tspan x="10" y="970">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="986">", source: file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/electron.15b4aa1c552\</tspan>
-<tspan x="10" y="1002">0.2827295e32dbe.html (249)</tspan>
-<tspan x="10" y="1018">[6638:0407/225610:INFO:CONSOLE(249)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
-<tspan x="10" y="1034">l", source: file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/electron.15b4aa1c55\</tspan>
-<tspan x="10" y="1050">20.2827295e32dbe.html (249)</tspan>
+<tspan x="10" y="986">", source: file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/electron.15b4ced7364\</tspan>
+<tspan x="10" y="1002">0.29b44271eaaaa.html (248)</tspan>
+<tspan x="10" y="1018">[4787:0408/093804:INFO:CONSOLE(248)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1034">l", source: file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/electron.15b4ced736\</tspan>
+<tspan x="10" y="1050">40.29b44271eaaaa.html (248)</tspan>
 <tspan x="10" y="1066"></tspan>
-<tspan x="10" y="1082">browserTest - exit-code 1 - /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apid\</tspan>
-<tspan x="10" y="1098">oc.html</tspan>
-<tspan x="10" y="1114"></tspan>
+<tspan x="10" y="1082">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
+<tspan x="10" y="1098">/tmp/build/screenCapture.npmTest.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-redis-c\</tspan>
+<tspan x="10" y="1114">ommander%2Ftmp%2Fbuild%2Fapidoc.html.png</tspan>
 <tspan x="10" y="1130"></tspan>
 <tspan x="10" y="1146">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
-<tspan x="10" y="1162">/tmp/build/screenCapture.%2F.png</tspan>
-<tspan x="10" y="1178"></tspan>
-<tspan x="10" y="1194">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
-<tspan x="10" y="1210">/tmp/build/screenCapture.%2F.html</tspan>
-<tspan x="10" y="1226"></tspan>
-<tspan x="10" y="1242">browserTest - exit-code 0 - http://127.0.0.1:64296?modeTest=1</tspan>
+<tspan x="10" y="1162">/tmp/build/screenCapture.npmTest.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-redis-c\</tspan>
+<tspan x="10" y="1178">ommander%2Ftmp%2Fbuild%2Fapidoc.html.html</tspan>
+<tspan x="10" y="1194"></tspan>
+<tspan x="10" y="1210">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apid\</tspan>
+<tspan x="10" y="1226">oc.html</tspan>
+<tspan x="10" y="1242"></tspan>
 <tspan x="10" y="1258"></tspan>
-<tspan x="10" y="1274"></tspan>
-<tspan x="10" y="1290">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/cov\</tspan>
-<tspan x="10" y="1306">erage.%2F.json</tspan>
-<tspan x="10" y="1322"></tspan>
-<tspan x="10" y="1338"></tspan>
-<tspan x="10" y="1354">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp\</tspan>
-<tspan x="10" y="1370">/test-report.%2F.json</tspan>
+<tspan x="10" y="1274">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
+<tspan x="10" y="1290">/tmp/build/screenCapture.npmTest.browser.%2F.png</tspan>
+<tspan x="10" y="1306"></tspan>
+<tspan x="10" y="1322">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
+<tspan x="10" y="1338">/tmp/build/screenCapture.npmTest.browser.%2F.html</tspan>
+<tspan x="10" y="1354"></tspan>
+<tspan x="10" y="1370">browserTest - exit-code 0 - http://127.0.0.1:36828?modeTest=1</tspan>
 <tspan x="10" y="1386"></tspan>
-<tspan x="10" y="1402">[node test-case 4 of 6 passed] - testCase_webpage_default</tspan>
-<tspan x="10" y="1418"></tspan>
-<tspan x="10" y="1434">testCase testCase_buildApidoc_default failed</tspan>
-<tspan x="10" y="1450">onTimeout - timeout-error - 30000 ms - testCase_buildApidoc_default</tspan>
-<tspan x="10" y="1466">Error: onTimeout - timeout-error - 30000 ms - testCase_buildApidoc_default</tspan>
-<tspan x="10" y="1482">    at Timeout._onTimeout (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/ut\</tspan>
-<tspan x="10" y="1498">ility2/lib.utility2.js:4138:25)</tspan>
-<tspan x="10" y="1514">    at ontimeout (timers.js:380:14)</tspan>
-<tspan x="10" y="1530">    at tryOnTimeout (timers.js:244:5)</tspan>
-<tspan x="10" y="1546">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
-<tspan x="10" y="1562">Error</tspan>
-<tspan x="10" y="1578">    at Object.local.onTimeout (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_module\</tspan>
-<tspan x="10" y="1594">s/utility2/lib.utility2.js:4135:29)</tspan>
-<tspan x="10" y="1610">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="1626">js:5422:38</tspan>
-<tspan x="10" y="1642">    at onEach2 (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.\</tspan>
-<tspan x="10" y="1658">utility2.js:4050:21)</tspan>
-<tspan x="10" y="1674">    at Object.local.onParallelList (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_m\</tspan>
-<tspan x="10" y="1690">odules/utility2/lib.utility2.js:4076:13)</tspan>
-<tspan x="10" y="1706">    at Object.local.testRunDefault (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_m\</tspan>
-<tspan x="10" y="1722">odules/utility2/lib.utility2.js:5377:19)</tspan>
+<tspan x="10" y="1402"></tspan>
+<tspan x="10" y="1418">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/cov\</tspan>
+<tspan x="10" y="1434">erage.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1450"></tspan>
+<tspan x="10" y="1466"></tspan>
+<tspan x="10" y="1482">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp\</tspan>
+<tspan x="10" y="1498">/test-report.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1514"></tspan>
+<tspan x="10" y="1530">[node test-case 4 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="1546"></tspan>
+<tspan x="10" y="1562">testCase testCase_buildApidoc_default failed</tspan>
+<tspan x="10" y="1578">onTimeout - timeout-error - 30000 ms - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="1594">Error: onTimeout - timeout-error - 30000 ms - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="1610">    at Timeout._onTimeout (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/ut\</tspan>
+<tspan x="10" y="1626">ility2/lib.utility2.js:4137:25)</tspan>
+<tspan x="10" y="1642">    at ontimeout (timers.js:380:14)</tspan>
+<tspan x="10" y="1658">    at tryOnTimeout (timers.js:244:5)</tspan>
+<tspan x="10" y="1674">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
+<tspan x="10" y="1690">Error</tspan>
+<tspan x="10" y="1706">    at Object.local.onTimeout (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_module\</tspan>
+<tspan x="10" y="1722">s/utility2/lib.utility2.js:4134:29)</tspan>
 <tspan x="10" y="1738">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="1754">js:5318:35</tspan>
-<tspan x="10" y="1770">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="1786">js:3950:17</tspan>
-<tspan x="10" y="1802">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="1818">js:4803:29</tspan>
-<tspan x="10" y="1834">    at Array.forEach (native)</tspan>
-<tspan x="10" y="1850">[node test-case 5 of 6 failed] - testCase_buildApidoc_default</tspan>
-<tspan x="10" y="1866"></tspan>
-<tspan x="10" y="1882">testCase testCase_buildApp_default failed</tspan>
-<tspan x="10" y="1898">onTimeout - timeout-error - 30000 ms - testCase_buildApp_default</tspan>
-<tspan x="10" y="1914">Error: onTimeout - timeout-error - 30000 ms - testCase_buildApp_default</tspan>
-<tspan x="10" y="1930">    at Timeout._onTimeout (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/ut\</tspan>
-<tspan x="10" y="1946">ility2/lib.utility2.js:4138:25)</tspan>
-<tspan x="10" y="1962">    at ontimeout (timers.js:380:14)</tspan>
-<tspan x="10" y="1978">    at tryOnTimeout (timers.js:244:5)</tspan>
-<tspan x="10" y="1994">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
-<tspan x="10" y="2010">Error</tspan>
-<tspan x="10" y="2026">    at Object.local.onTimeout (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_module\</tspan>
-<tspan x="10" y="2042">s/utility2/lib.utility2.js:4135:29)</tspan>
-<tspan x="10" y="2058">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="2074">js:5422:38</tspan>
-<tspan x="10" y="2090">    at onEach2 (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.\</tspan>
-<tspan x="10" y="2106">utility2.js:4050:21)</tspan>
-<tspan x="10" y="2122">    at Object.local.onParallelList (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_m\</tspan>
-<tspan x="10" y="2138">odules/utility2/lib.utility2.js:4076:13)</tspan>
-<tspan x="10" y="2154">    at Object.local.testRunDefault (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_m\</tspan>
-<tspan x="10" y="2170">odules/utility2/lib.utility2.js:5377:19)</tspan>
+<tspan x="10" y="1754">js:5421:38</tspan>
+<tspan x="10" y="1770">    at onEach2 (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.\</tspan>
+<tspan x="10" y="1786">utility2.js:4049:21)</tspan>
+<tspan x="10" y="1802">    at Object.local.onParallelList (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_m\</tspan>
+<tspan x="10" y="1818">odules/utility2/lib.utility2.js:4075:13)</tspan>
+<tspan x="10" y="1834">    at Object.local.testRunDefault (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_m\</tspan>
+<tspan x="10" y="1850">odules/utility2/lib.utility2.js:5376:19)</tspan>
+<tspan x="10" y="1866">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
+<tspan x="10" y="1882">js:5317:35</tspan>
+<tspan x="10" y="1898">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
+<tspan x="10" y="1914">js:3949:17</tspan>
+<tspan x="10" y="1930">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
+<tspan x="10" y="1946">js:4802:29</tspan>
+<tspan x="10" y="1962">    at Array.forEach (native)</tspan>
+<tspan x="10" y="1978">[node test-case 5 of 6 failed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="1994"></tspan>
+<tspan x="10" y="2010">testCase testCase_buildApp_default failed</tspan>
+<tspan x="10" y="2026">onTimeout - timeout-error - 30000 ms - testCase_buildApp_default</tspan>
+<tspan x="10" y="2042">Error: onTimeout - timeout-error - 30000 ms - testCase_buildApp_default</tspan>
+<tspan x="10" y="2058">    at Timeout._onTimeout (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/ut\</tspan>
+<tspan x="10" y="2074">ility2/lib.utility2.js:4137:25)</tspan>
+<tspan x="10" y="2090">    at ontimeout (timers.js:380:14)</tspan>
+<tspan x="10" y="2106">    at tryOnTimeout (timers.js:244:5)</tspan>
+<tspan x="10" y="2122">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
+<tspan x="10" y="2138">Error</tspan>
+<tspan x="10" y="2154">    at Object.local.onTimeout (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_module\</tspan>
+<tspan x="10" y="2170">s/utility2/lib.utility2.js:4134:29)</tspan>
 <tspan x="10" y="2186">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="2202">js:5318:35</tspan>
-<tspan x="10" y="2218">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="2234">js:3950:17</tspan>
-<tspan x="10" y="2250">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="2266">js:4803:29</tspan>
-<tspan x="10" y="2282">    at Array.forEach (native)</tspan>
-<tspan x="10" y="2298">    at task.onDone (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/\</tspan>
-<tspan x="10" y="2314">lib.utility2.js:4802:34)</tspan>
-<tspan x="10" y="2330">    at Object.onTask (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility\</tspan>
-<tspan x="10" y="2346">2/lib.utility2.js:4097:17)</tspan>
-<tspan x="10" y="2362">    at Object.local.taskCreate (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modul\</tspan>
-<tspan x="10" y="2378">es/utility2/lib.utility2.js:4814:18)</tspan>
-<tspan x="10" y="2394">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="2410">js:4094:19</tspan>
-<tspan x="10" y="2426">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
-<tspan x="10" y="2442">js:3950:17</tspan>
-<tspan x="10" y="2458">    at onParallel (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/l\</tspan>
-<tspan x="10" y="2474">ib.utility2.js:4026:21)</tspan>
-<tspan x="10" y="2490">[node test-case 6 of 6 failed] - testCase_buildApp_default</tspan>
-<tspan x="10" y="2506"></tspan>
-<tspan x="10" y="2522">testCase testCase_buildApidoc_default failed</tspan>
-<tspan x="10" y="2538">callback in testCase testCase_buildApidoc_default called multiple times</tspan>
-<tspan x="10" y="2554">Error: callback in testCase testCase_buildApidoc_default called multiple times</tspan>
-<tspan x="10" y="2570">    at Timeout.onError [as _onTimeout] (/home/travis/build/npmdoc/node-npmdoc-redis-commander/no\</tspan>
-<tspan x="10" y="2586">de_modules/utility2/lib.utility2.js:5386:42)</tspan>
-<tspan x="10" y="2602">    at ontimeout (timers.js:380:14)</tspan>
-<tspan x="10" y="2618">    at tryOnTimeout (timers.js:244:5)</tspan>
-<tspan x="10" y="2634">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
-<tspan x="10" y="2650">------------------------------------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="2666">File                                |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
-<tspan x="10" y="2682">------------------------------------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="2698">   node-npmdoc-redis-commander/     |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2714">      example.js                    |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2730">      lib.npmdoc_redis_commander.js |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2746">      test.js                       |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2762">------------------------------------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="2778">All files                           |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2794">------------------------------------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="2810"></tspan>
-<tspan x="10" y="2826">created coverage file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/redis\</tspan>
-<tspan x="10" y="2842">-commander/tmp/build/coverage.html/index.html</tspan>
-<tspan x="10" y="2858">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
-<tspan x="10" y="2874">to test-report</tspan>
-<tspan x="10" y="2890">&gt; server listening on http-port 64296</tspan>
-<tspan x="10" y="2906">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apidoc.htm\</tspan>
-<tspan x="10" y="2922">l</tspan>
+<tspan x="10" y="2202">js:5421:38</tspan>
+<tspan x="10" y="2218">    at onEach2 (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.\</tspan>
+<tspan x="10" y="2234">utility2.js:4049:21)</tspan>
+<tspan x="10" y="2250">    at Object.local.onParallelList (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_m\</tspan>
+<tspan x="10" y="2266">odules/utility2/lib.utility2.js:4075:13)</tspan>
+<tspan x="10" y="2282">    at Object.local.testRunDefault (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_m\</tspan>
+<tspan x="10" y="2298">odules/utility2/lib.utility2.js:5376:19)</tspan>
+<tspan x="10" y="2314">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
+<tspan x="10" y="2330">js:5317:35</tspan>
+<tspan x="10" y="2346">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
+<tspan x="10" y="2362">js:3949:17</tspan>
+<tspan x="10" y="2378">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
+<tspan x="10" y="2394">js:4802:29</tspan>
+<tspan x="10" y="2410">    at Array.forEach (native)</tspan>
+<tspan x="10" y="2426">    at task.onDone (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/\</tspan>
+<tspan x="10" y="2442">lib.utility2.js:4801:34)</tspan>
+<tspan x="10" y="2458">    at Object.onTask (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility\</tspan>
+<tspan x="10" y="2474">2/lib.utility2.js:4096:17)</tspan>
+<tspan x="10" y="2490">    at Object.local.taskCreate (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modul\</tspan>
+<tspan x="10" y="2506">es/utility2/lib.utility2.js:4813:18)</tspan>
+<tspan x="10" y="2522">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
+<tspan x="10" y="2538">js:4093:19</tspan>
+<tspan x="10" y="2554">    at /home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/lib.utility2.\</tspan>
+<tspan x="10" y="2570">js:3949:17</tspan>
+<tspan x="10" y="2586">    at onParallel (/home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/utility2/l\</tspan>
+<tspan x="10" y="2602">ib.utility2.js:4025:21)</tspan>
+<tspan x="10" y="2618">[node test-case 6 of 6 failed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="2634"></tspan>
+<tspan x="10" y="2650">testCase testCase_buildApidoc_default failed</tspan>
+<tspan x="10" y="2666">callback in testCase testCase_buildApidoc_default called multiple times</tspan>
+<tspan x="10" y="2682">Error: callback in testCase testCase_buildApidoc_default called multiple times</tspan>
+<tspan x="10" y="2698">    at Timeout.onError [as _onTimeout] (/home/travis/build/npmdoc/node-npmdoc-redis-commander/no\</tspan>
+<tspan x="10" y="2714">de_modules/utility2/lib.utility2.js:5385:42)</tspan>
+<tspan x="10" y="2730">    at ontimeout (timers.js:380:14)</tspan>
+<tspan x="10" y="2746">    at tryOnTimeout (timers.js:244:5)</tspan>
+<tspan x="10" y="2762">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
+<tspan x="10" y="2778">------------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2794">File                                |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="2810">------------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2826">   node-npmdoc-redis-commander/     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2842">      example.js                    |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2858">      lib.npmdoc_redis_commander.js |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2874">      test.js                       |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2890">------------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2906">All files                           |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2922">------------------------------------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="2938"></tspan>
-<tspan x="10" y="2954"></tspan>
-<tspan x="10" y="2970">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-redis-commander/\</tspan>
-<tspan x="10" y="2986">tmp/electron.15b4aa245fa0.ab090068c807f.html</tspan>
-<tspan x="10" y="3002"></tspan>
-<tspan x="10" y="3018">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
-<tspan x="10" y="3034">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
-<tspan x="10" y="3050">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="2954">created coverage file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/node_modules/redis\</tspan>
+<tspan x="10" y="2970">-commander/tmp/build/coverage.html/index.html</tspan>
+<tspan x="10" y="2986">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
+<tspan x="10" y="3002">to test-report</tspan>
+<tspan x="10" y="3018">&gt; server listening on http-port 36828</tspan>
+<tspan x="10" y="3034">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apidoc.htm\</tspan>
+<tspan x="10" y="3050">l</tspan>
 <tspan x="10" y="3066"></tspan>
-<tspan x="10" y="3082">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-redis-commander/\</tspan>
-<tspan x="10" y="3098">tmp/electron.15b4aa2463d0.8df142bb5c2f3.html</tspan>
-<tspan x="10" y="3114"></tspan>
-<tspan x="10" y="3130">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="3146">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="3162">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
-<tspan x="10" y="3178">to test-report</tspan>
-<tspan x="10" y="3194">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="3210">[6778:0407/225641:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="3226">[6778:0407/225641:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="3242">[6812:0407/225641:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="3258">in process gpu-process. </tspan>
-<tspan x="10" y="3274">[6778:0407/225641:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="3290"></tspan>
-<tspan x="10" y="3306">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apidoc.\</tspan>
-<tspan x="10" y="3322">html</tspan>
-<tspan x="10" y="3338"></tspan>
-<tspan x="10" y="3354">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
-<tspan x="10" y="3370">to test-report</tspan>
-<tspan x="10" y="3386">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="3402">[6793:0407/225641:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="3418">[6793:0407/225641:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="3434">[6851:0407/225641:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="3450">in process gpu-process. </tspan>
-<tspan x="10" y="3466">[6793:0407/225641:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="3482"></tspan>
-<tspan x="10" y="3498">browserTest - opened url http://127.0.0.1:64296?modeTest=1</tspan>
-<tspan x="10" y="3514"></tspan>
-<tspan x="10" y="3530">&gt; server listening on http-port 44698</tspan>
-<tspan x="10" y="3546">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
-<tspan x="10" y="3562"></tspan>
-<tspan x="10" y="3578">browserTest - exit-code 1 - /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apid\</tspan>
-<tspan x="10" y="3594">oc.html</tspan>
+<tspan x="10" y="3082"></tspan>
+<tspan x="10" y="3098">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-redis-commander/\</tspan>
+<tspan x="10" y="3114">tmp/electron.15b4cedf4680.db17127173956.html</tspan>
+<tspan x="10" y="3130"></tspan>
+<tspan x="10" y="3146">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="3162">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="3178">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="3194"></tspan>
+<tspan x="10" y="3210">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-redis-commander/\</tspan>
+<tspan x="10" y="3226">tmp/electron.15b4cedf4a10.5dd4f6237b7ce.html</tspan>
+<tspan x="10" y="3242"></tspan>
+<tspan x="10" y="3258">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="3274">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="3290">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
+<tspan x="10" y="3306">to test-report</tspan>
+<tspan x="10" y="3322">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="3338">[4910:0408/093835:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="3354">[4910:0408/093835:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="3370">[4934:0408/093835:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="3386">in process gpu-process. </tspan>
+<tspan x="10" y="3402">[4910:0408/093835:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="3418">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
+<tspan x="10" y="3434">to test-report</tspan>
+<tspan x="10" y="3450">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="3466">[4915:0408/093836:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="3482">[4915:0408/093836:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="3498">[4966:0408/093836:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="3514">in process gpu-process. </tspan>
+<tspan x="10" y="3530"></tspan>
+<tspan x="10" y="3546">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apidoc.\</tspan>
+<tspan x="10" y="3562">html</tspan>
+<tspan x="10" y="3578"></tspan>
+<tspan x="10" y="3594">[4915:0408/093836:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
 <tspan x="10" y="3610"></tspan>
-<tspan x="10" y="3626">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="3626">browserTest - opened url http://127.0.0.1:36828?modeTest=1</tspan>
 <tspan x="10" y="3642"></tspan>
-<tspan x="10" y="3658">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
-<tspan x="10" y="3674">/tmp/build/screenCapture.%2F.png</tspan>
+<tspan x="10" y="3658">&gt; server listening on http-port 34041</tspan>
+<tspan x="10" y="3674">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="3690"></tspan>
 <tspan x="10" y="3706">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
-<tspan x="10" y="3722">/tmp/build/screenCapture.%2F.html</tspan>
-<tspan x="10" y="3738"></tspan>
-<tspan x="10" y="3754">browserTest - exit-code 0 - http://127.0.0.1:64296?modeTest=1</tspan>
-<tspan x="10" y="3770"></tspan>
-<tspan x="10" y="3786"></tspan>
-<tspan x="10" y="3802">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/cov\</tspan>
-<tspan x="10" y="3818">erage.%2F.json</tspan>
-<tspan x="10" y="3834"></tspan>
-<tspan x="10" y="3850"></tspan>
-<tspan x="10" y="3866">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp\</tspan>
-<tspan x="10" y="3882">/test-report.%2F.json</tspan>
+<tspan x="10" y="3722">/tmp/build/screenCapture.npmTest.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-redis-c\</tspan>
+<tspan x="10" y="3738">ommander%2Ftmp%2Fbuild%2Fapidoc.html.png</tspan>
+<tspan x="10" y="3754"></tspan>
+<tspan x="10" y="3770">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
+<tspan x="10" y="3786">/tmp/build/screenCapture.npmTest.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-redis-c\</tspan>
+<tspan x="10" y="3802">ommander%2Ftmp%2Fbuild%2Fapidoc.html.html</tspan>
+<tspan x="10" y="3818"></tspan>
+<tspan x="10" y="3834">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/apid\</tspan>
+<tspan x="10" y="3850">oc.html</tspan>
+<tspan x="10" y="3866"></tspan>
+<tspan x="10" y="3882">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
 <tspan x="10" y="3898"></tspan>
-<tspan x="10" y="3914">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
-<tspan x="10" y="3930">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
-<tspan x="10" y="3946">to test-report</tspan>
-<tspan x="10" y="3962"></tspan>
-<tspan x="10" y="3978">-------------------------------------------------------</tspan>
-<tspan x="10" y="3994">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T22:55:27.360Z</tspan>
-<tspan x="10" y="4010">|   88529 ms            0 failed        6 passed      |</tspan>
-<tspan x="10" y="4026">-------------------------------------------------------</tspan>
+<tspan x="10" y="3914">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
+<tspan x="10" y="3930">/tmp/build/screenCapture.npmTest.browser.%2F.png</tspan>
+<tspan x="10" y="3946"></tspan>
+<tspan x="10" y="3962">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-redis-commander\</tspan>
+<tspan x="10" y="3978">/tmp/build/screenCapture.npmTest.browser.%2F.html</tspan>
+<tspan x="10" y="3994"></tspan>
+<tspan x="10" y="4010">browserTest - exit-code 0 - http://127.0.0.1:36828?modeTest=1</tspan>
+<tspan x="10" y="4026"></tspan>
 <tspan x="10" y="4042"></tspan>
-<tspan x="10" y="4058">created test-report file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-\</tspan>
-<tspan x="10" y="4074">report.html</tspan>
+<tspan x="10" y="4058">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/cov\</tspan>
+<tspan x="10" y="4074">erage.npmTest.browser.%2F.json</tspan>
 <tspan x="10" y="4090"></tspan>
 <tspan x="10" y="4106"></tspan>
-<tspan x="10" y="4122">npmTest - 0 failed tests</tspan>
-<tspan x="10" y="4138"></tspan>
+<tspan x="10" y="4122">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp\</tspan>
+<tspan x="10" y="4138">/test-report.npmTest.browser.%2F.json</tspan>
 <tspan x="10" y="4154"></tspan>
-<tspan x="10" y="4170">[MODE_BUILD=npmTest] - 2017-04-07T22:56:58Z - EXIT_CODE - 2</tspan>
-<tspan x="10" y="4186"></tspan>
-<tspan x="10" y="4202">npm ERR! Test failed.  See above for more details.</tspan>
+<tspan x="10" y="4170">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="4186">merging file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-report.json \</tspan>
+<tspan x="10" y="4202">to test-report</tspan>
+<tspan x="10" y="4218"></tspan>
+<tspan x="10" y="4234">-------------------------------------------------------</tspan>
+<tspan x="10" y="4250">| test-report - npmTest - node - linux v6.10.2 - 2017-04-08T09:38:00.938Z</tspan>
+<tspan x="10" y="4266">|   50581 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="4282">-------------------------------------------------------</tspan>
+<tspan x="10" y="4298">| test-report - npmdoc - node - linux v6.10.2 - 2017-04-08T09:37:39.667Z</tspan>
+<tspan x="10" y="4314">|   16844 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="4330">-------------------------------------------------------</tspan>
+<tspan x="10" y="4346"></tspan>
+<tspan x="10" y="4362">created test-report file:///home/travis/build/npmdoc/node-npmdoc-redis-commander/tmp/build/test-\</tspan>
+<tspan x="10" y="4378">report.html</tspan>
+<tspan x="10" y="4394"></tspan>
+<tspan x="10" y="4410"></tspan>
+<tspan x="10" y="4426">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="4442"></tspan>
+<tspan x="10" y="4458"></tspan>
+<tspan x="10" y="4474">[MODE_BUILD=npmTest] - 2017-04-08T09:38:53Z - EXIT_CODE - 2</tspan>
+<tspan x="10" y="4490"></tspan>
+<tspan x="10" y="4506">npm ERR! Test failed.  See above for more details.</tspan>
 </text>
 </svg>
